@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<title>Zanzibar Heritage Sites</title>
+  <head>
+    <meta charset='utf-8' />
+    <title>Zanzibar Heritage Sites</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.46.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+      body { margin: 0; padding: 0; }
+      #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    </style>
+  </head>
+  <body>
+    <div id='map'></div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiamluYWxmb2ZsaWEiLCJhIjoiOE53X2toRSJ9.2aMeuYERrEvKHul16lAJjA'; // replace this with your access token
+    var map = new mapboxgl.Map({
+      container: 'map',
+      style: 'mapbox://styles/jinalfoflia/cjkpzhg1f73f82roga99lrvy5', // replace this with your style URL
+      center: [39.589, -5.643],
+      zoom: 8.1
+    });
+
+map.on('load', function() {
+
+  // Create a popup, but don't add it to the map yet.
+  var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+  });
+
+  function showPopup(e) {
+    // Updates the cursor to a hand (interactivity)
+    map.getCanvas().style.cursor = 'pointer';
+
+    // Show the popup at the coordinates with some data
+    popup.setLngLat(e.features[0].geometry.coordinates)
+      .setHTML(checkEmpty(e.features[0].properties.SITE))
+      .addTo(map);
+  }
+
+  function hidePopup() {
+    map.getCanvas().style.cursor = '';
+    popup.remove();
+  }
+
+  function checkEmpty(info) {
+    return (info) ? info : "No data";
+  }
+
+// CHANGE: Add layer names that need to be interactive
+
+  map.on('mouseenter', 'zanzibar-heritage', showPopup);
+  map.on('mouseleave', 'zanzibar-heritage', hidePopup);
+});
+
+    </script>
+  </body>
+</html>
