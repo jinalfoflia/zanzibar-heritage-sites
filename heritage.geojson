@@ -1,0 +1,2036 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 92,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72754644008258,
+          -5.245144831579937
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Banani House",
+        "Y_ARC60": -5.24533333,
+        "X_ARC60": 39.72768333,
+        "UTM_X_ARC6": 580542.3804,
+        "UTM_Y_ARC6": 9420472.181,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2006"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.72782978291633,
+          -5.243128357955634
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Banani Tower",
+        "Y_ARC60": -5.24331667,
+        "X_ARC60": 39.72796667,
+        "UTM_X_ARC6": 580574.0392,
+        "UTM_Y_ARC6": 9420695.083,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.703445581884914,
+          -4.968970437181515
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Bandari Kuu",
+        "Y_ARC60": -4.96913333,
+        "X_ARC60": 39.70358333,
+        "UTM_X_ARC6": 577904.9633,
+        "UTM_Y_ARC6": 9451008.382,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2008"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.76704722991319,
+          -5.245811384125497
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Bohora Mosque",
+        "Y_ARC60": -5.246,
+        "X_ARC60": 39.76718333,
+        "UTM_X_ARC6": 584919.7427,
+        "UTM_Y_ARC6": 9420393.263,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2009"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.76549720137377,
+          -5.24752789730324
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chake Chake Fort",
+        "Y_ARC60": -5.24771667,
+        "X_ARC60": 39.76563333,
+        "UTM_X_ARC6": 584747.7369,
+        "UTM_Y_ARC6": 9420203.696,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.76413051328973,
+          -5.246961281720699
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chake Chake Battery",
+        "Y_ARC60": -5.24715,
+        "X_ARC60": 39.76426667,
+        "UTM_X_ARC6": 584596.3578,
+        "UTM_Y_ARC6": 9420266.526,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2011"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.766713895035416,
+          -5.247077937268142
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chake Chake Mosque",
+        "Y_ARC60": -5.24726667,
+        "X_ARC60": 39.76685,
+        "UTM_X_ARC6": 584882.6311,
+        "UTM_Y_ARC6": 9420253.279,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2012"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79851467697072,
+          -5.350768285147951
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chambani Mjini",
+        "Y_ARC60": -5.35096667,
+        "X_ARC60": 39.79865,
+        "UTM_X_ARC6": 588392.0224,
+        "UTM_Y_ARC6": 9408784.81,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.77154694106794,
+          -4.968587051693966
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chwaka (Great Mosque)",
+        "Y_ARC60": -4.96875,
+        "X_ARC60": 39.77168333,
+        "UTM_X_ARC6": 585455.1765,
+        "UTM_Y_ARC6": 9451042.342,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2014"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.799214158125395,
+          -4.964837361877441
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chwaka (Mazrui Site)",
+        "Y_ARC60": -4.965,
+        "X_ARC60": 39.79935,
+        "UTM_X_ARC6": 588523.0824,
+        "UTM_Y_ARC6": 9451453.26,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7351799375478,
+          -5.2486944920235725
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Dongoni",
+        "Y_ARC60": -5.24888333,
+        "X_ARC60": 39.73531667,
+        "UTM_X_ARC6": 581387.8557,
+        "UTM_Y_ARC6": 9420078.747,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69249541503952,
+          -5.007950183600161
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Finga House",
+        "Y_ARC60": -5.00811667,
+        "X_ARC60": 39.69263333,
+        "UTM_X_ARC6": 576686.4323,
+        "UTM_Y_ARC6": 9446700.187,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69287876151781,
+          -5.007066924847819
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Finga Mosque",
+        "Y_ARC60": -5.00723333,
+        "X_ARC60": 39.69301667,
+        "UTM_X_ARC6": 576729.0329,
+        "UTM_Y_ARC6": 9446797.792,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.690329180664776,
+          -5.347118778836123
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Jambangome Mosque",
+        "Y_ARC60": -5.34731667,
+        "X_ARC60": 39.69046667,
+        "UTM_X_ARC6": 576405.4696,
+        "UTM_Y_ARC6": 9409202.831,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79154731032096,
+          -4.946089107942697
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kaliwa",
+        "Y_ARC60": -4.94625,
+        "X_ARC60": 39.79168333,
+        "UTM_X_ARC6": 587675.5446,
+        "UTM_Y_ARC6": 9453527.074,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.827314934021956,
+          -5.124322553821348
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kichokochwe (Mosque)",
+        "Y_ARC60": -5.1245,
+        "X_ARC60": 39.82745,
+        "UTM_X_ARC6": 591616.186,
+        "UTM_Y_ARC6": 9433816.677,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82839828544773,
+          -5.124189234675141
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kichokochwe (Tombs)",
+        "Y_ARC60": -5.12436667,
+        "X_ARC60": 39.82853333,
+        "UTM_X_ARC6": 591736.2865,
+        "UTM_Y_ARC6": 9433831.261,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65734474410378,
+          -5.031481382742254
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kimeleani",
+        "Y_ARC60": -5.03165,
+        "X_ARC60": 39.65748333,
+        "UTM_X_ARC6": 572787.0657,
+        "UTM_Y_ARC6": 9444102.68,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79799749066984,
+          -4.984985497959593
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kimimba",
+        "Y_ARC60": -4.98515,
+        "X_ARC60": 39.79813333,
+        "UTM_X_ARC6": 588385.499,
+        "UTM_Y_ARC6": 9449225.857,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.83986540530747,
+          -5.282807853260166
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kiungoni",
+        "Y_ARC60": -5.283,
+        "X_ARC60": 39.84,
+        "UTM_X_ARC6": 592983.9988,
+        "UTM_Y_ARC6": 9416292.52,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.86436543486374,
+          -4.947972166529254
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kiuyu",
+        "Y_ARC60": -4.94813333,
+        "X_ARC60": 39.8645,
+        "UTM_X_ARC6": 595748.8197,
+        "UTM_Y_ARC6": 9453308.813,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.772114222285346,
+          -5.401080321318554
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kiwani",
+        "Y_ARC60": -5.40128333,
+        "X_ARC60": 39.77225,
+        "UTM_X_ARC6": 585459.7817,
+        "UTM_Y_ARC6": 9403226.047,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2027"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.60562752743089,
+          -5.3757495787833
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Makoongwe",
+        "Y_ARC60": -5.37595,
+        "X_ARC60": 39.60576667,
+        "UTM_X_ARC6": 567017.4893,
+        "UTM_Y_ARC6": 9406047.42,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.56449340722652,
+          -5.405880177758418
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Matumbi Makubwa",
+        "Y_ARC60": -5.40608333,
+        "X_ARC60": 39.56463333,
+        "UTM_X_ARC6": 562457.0522,
+        "UTM_Y_ARC6": 9402720.681,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2029"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69287872238967,
+          -4.977702982976387
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mduuni",
+        "Y_ARC60": -4.97786667,
+        "X_ARC60": 39.69301667,
+        "UTM_X_ARC6": 576732.4487,
+        "UTM_Y_ARC6": 9450044.177,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2030"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.83598157800996,
+          -4.977302828396188
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Micheweni Mosque",
+        "Y_ARC60": -4.97746667,
+        "X_ARC60": 39.83611667,
+        "UTM_X_ARC6": 592597.718,
+        "UTM_Y_ARC6": 9450070.034,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2031"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.602143925156525,
+          -5.239662185746886
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Misali Mpapaini Cave1",
+        "Y_ARC60": -5.23985,
+        "X_ARC60": 39.60228333,
+        "UTM_X_ARC6": 566646.1773,
+        "UTM_Y_ARC6": 9421093.078,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2032"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.602477273037245,
+          -5.24052877504096
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Misali Mpapaini Cave2",
+        "Y_ARC60": -5.24071667,
+        "X_ARC60": 39.60261667,
+        "UTM_X_ARC6": 566683.0258,
+        "UTM_Y_ARC6": 9420997.236,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2033"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.60874405375423,
+          -5.237179076393801
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Misali Kijiwe Bendera",
+        "Y_ARC60": -5.23736667,
+        "X_ARC60": 39.60888333,
+        "UTM_X_ARC6": 567377.8512,
+        "UTM_Y_ARC6": 9421366.894,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2034"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6468951219704,
+          -5.4510758717584515
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mitondooni Panza Island",
+        "Y_ARC60": -5.45128333,
+        "X_ARC60": 39.64703333,
+        "UTM_X_ARC6": 571580.7794,
+        "UTM_Y_ARC6": 9397714.86,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2035"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.68971195954676,
+          -4.955388382663158
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mkia wa Ng'ombe",
+        "Y_ARC60": -4.95555,
+        "X_ARC60": 39.68985,
+        "UTM_X_ARC6": 576383.9426,
+        "UTM_Y_ARC6": 9452511.573,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2036"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.68922854465381,
+          -4.898160349872686
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Msuka Mjini",
+        "Y_ARC60": -4.89831667,
+        "X_ARC60": 39.68936667,
+        "UTM_X_ARC6": 576336.8911,
+        "UTM_Y_ARC6": 9458838.562,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2037"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70876249592616,
+          -5.071794250977076
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mtambwe Mkuu Mosque (up hill) site",
+        "Y_ARC60": -5.07196667,
+        "X_ARC60": 39.7089,
+        "UTM_X_ARC6": 578482.108,
+        "UTM_Y_ARC6": 9439639.827,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2038"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70841248809908,
+          -5.0711776385443805
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mtambwe Mkuu Mosque (near beach) sit",
+        "Y_ARC60": -5.07135,
+        "X_ARC60": 39.70855,
+        "UTM_X_ARC6": 578443.3848,
+        "UTM_Y_ARC6": 9439708.041,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2039"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78886451905075,
+          -5.374949388400317
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mtangani",
+        "Y_ARC60": -5.37515,
+        "X_ARC60": 39.789,
+        "UTM_X_ARC6": 587319.3244,
+        "UTM_Y_ARC6": 9406112.717,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2040"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79838081262985,
+          -4.965687284297533
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Old Tumbe",
+        "Y_ARC60": -4.96585,
+        "X_ARC60": 39.79851667,
+        "UTM_X_ARC6": 588430.577,
+        "UTM_Y_ARC6": 9451359.405,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2041"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.84079860855291,
+          -5.179100790654083
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Ole Mandani",
+        "Y_ARC60": -5.17928333,
+        "X_ARC60": 39.84093333,
+        "UTM_X_ARC6": 593102.7659,
+        "UTM_Y_ARC6": 9427758.385,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2042"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81048152129833,
+          -5.305555787350778
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Pujini",
+        "Y_ARC60": -5.30575,
+        "X_ARC60": 39.81061667,
+        "UTM_X_ARC6": 589724.5454,
+        "UTM_Y_ARC6": 9413781.81,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2043"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6783616246519,
+          -4.872912700584903
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Ras Kigomasha",
+        "Y_ARC60": -4.87306667,
+        "X_ARC60": 39.6785,
+        "UTM_X_ARC6": 575134.8169,
+        "UTM_Y_ARC6": 9461631.074,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2044"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.66249507119189,
+          -5.195766165822092
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Ras Mkumbuu (Great Mosque)",
+        "Y_ARC60": -5.19595,
+        "X_ARC60": 39.66263333,
+        "UTM_X_ARC6": 573339.2607,
+        "UTM_Y_ARC6": 9425939.339,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2045"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.66262841651567,
+          -5.197682658171488
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Ras Mkumbuu (10th century Mosque sit",
+        "Y_ARC60": -5.19786667,
+        "X_ARC60": 39.66276667,
+        "UTM_X_ARC6": 573353.8166,
+        "UTM_Y_ARC6": 9425727.442,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2046"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.732413482827056,
+          -5.438043624147023
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Shamiani",
+        "Y_ARC60": -5.43825,
+        "X_ARC60": 39.73255,
+        "UTM_X_ARC6": 581056.3348,
+        "UTM_Y_ARC6": 9399144.852,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2047"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82541468551607,
+          -4.968453661984982
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Shumba",
+        "Y_ARC60": -4.96861667,
+        "X_ARC60": 39.82555,
+        "UTM_X_ARC6": 591427.4147,
+        "UTM_Y_ARC6": 9451049.874,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2048"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8406986954258,
+          -5.24274489423367
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Vitongoji Tomb",
+        "Y_ARC60": -5.24293333,
+        "X_ARC60": 39.84083333,
+        "UTM_X_ARC6": 593082.3067,
+        "UTM_Y_ARC6": 9420721.819,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2049"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.192287093044406,
+          -6.1629106466822545
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Anglican Cathedral",
+        "Y_ARC60": -6.16318333,
+        "X_ARC60": 39.19243333,
+        "UTM_X_ARC6": 521194.1624,
+        "UTM_Y_ARC6": 9319054.871,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19483713565186,
+          -6.157527810913962
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Bamnara Mosque",
+        "Y_ARC60": -6.1578,
+        "X_ARC60": 39.19498333,
+        "UTM_X_ARC6": 521476.5038,
+        "UTM_Y_ARC6": 9319649.862,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2051"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.211137399337005,
+          -6.117698142257451
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Beit el Ras",
+        "Y_ARC60": -6.11796667,
+        "X_ARC60": 39.21128333,
+        "UTM_X_ARC6": 523281.6405,
+        "UTM_Y_ARC6": 9324052.5,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2052"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3343734580117,
+          -6.262501188832592
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Bi Khole",
+        "Y_ARC60": -6.26278333,
+        "X_ARC60": 39.33451667,
+        "UTM_X_ARC6": 536906.9513,
+        "UTM_Y_ARC6": 9308036.818,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2053"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.212120690913935,
+          -6.075435383827063
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chuini Palace",
+        "Y_ARC60": -6.0757,
+        "X_ARC60": 39.21226667,
+        "UTM_X_ARC6": 523392.2813,
+        "UTM_Y_ARC6": 9328724.765,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2054"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.21235402781276,
+          -6.0768019269224975
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chuini (South site)",
+        "Y_ARC60": -6.07706667,
+        "X_ARC60": 39.2125,
+        "UTM_X_ARC6": 523418.0411,
+        "UTM_Y_ARC6": 9328573.678,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2055"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43649201049289,
+          -6.165493346953005
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Chwaka",
+        "Y_ARC60": -6.16576667,
+        "X_ARC60": 39.43663333,
+        "UTM_X_ARC6": 548211.7357,
+        "UTM_Y_ARC6": 9318753.375,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2056"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.32598974936394,
+          -6.1410957883282355
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Dunga",
+        "Y_ARC60": -6.14136667,
+        "X_ARC60": 39.32613333,
+        "UTM_X_ARC6": 535987.8597,
+        "UTM_Y_ARC6": 9321459.405,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2057"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.28982185634698,
+          -5.822558674834365
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Fukuchani",
+        "Y_ARC60": -5.8228,
+        "X_ARC60": 39.28996667,
+        "UTM_X_ARC6": 532004.8611,
+        "UTM_Y_ARC6": 9356677.249,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2058"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.191620360105595,
+          -6.12633070467501
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Grave Island (Chapwani Is.)",
+        "Y_ARC60": -6.1266,
+        "X_ARC60": 39.19176667,
+        "UTM_X_ARC6": 521121.8535,
+        "UTM_Y_ARC6": 9323098.951,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2059"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.190837063007905,
+          -6.162410695343651
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Hamamni Baths",
+        "Y_ARC60": -6.16268333,
+        "X_ARC60": 39.19098333,
+        "UTM_X_ARC6": 521033.7586,
+        "UTM_Y_ARC6": 9319110.201,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2060"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.189537033710586,
+          -6.160510873372717
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "House of Wonders",
+        "Y_ARC60": -6.16078333,
+        "X_ARC60": 39.18968333,
+        "UTM_X_ARC6": 520890.0051,
+        "UTM_Y_ARC6": 9319320.285,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2061"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.24052128816206,
+          -6.091117215903338
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kidichi Baths",
+        "Y_ARC60": -6.09138333,
+        "X_ARC60": 39.24066667,
+        "UTM_X_ARC6": 526534.116,
+        "UTM_Y_ARC6": 9326989.757,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2062"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.26508843547957,
+          -6.0866009343732
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kizimbani Baths",
+        "Y_ARC60": -6.08686667,
+        "X_ARC60": 39.26523333,
+        "UTM_X_ARC6": 529252.7148,
+        "UTM_Y_ARC6": 9327487.774,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2063"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46210964877312,
+          -6.435734921938382
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kizimkazi Mosque",
+        "Y_ARC60": -6.43603333,
+        "X_ARC60": 39.46225,
+        "UTM_X_ARC6": 551019.4955,
+        "UTM_Y_ARC6": 9288873.767,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2064"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.46267633264619,
+          -6.437184786600936
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kizimkazi Houses",
+        "Y_ARC60": -6.43748333,
+        "X_ARC60": 39.46281667,
+        "UTM_X_ARC6": 551082.014,
+        "UTM_Y_ARC6": 9288713.416,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2065"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20568737016033,
+          -6.167260222023203
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Kwahani Persian Well",
+        "Y_ARC60": -6.16753333,
+        "X_ARC60": 39.20583333,
+        "UTM_X_ARC6": 522676.5122,
+        "UTM_Y_ARC6": 9318573.453,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2066"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20182061710184,
+          -6.157977757841773
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Livingstone House",
+        "Y_ARC60": -6.15825,
+        "X_ARC60": 39.20196667,
+        "UTM_X_ARC6": 522249.1083,
+        "UTM_Y_ARC6": 9319599.831,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2067"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.401941517846964,
+          -6.28713213401888
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Machaga Cave",
+        "Y_ARC60": -6.28741667,
+        "X_ARC60": 39.40208333,
+        "UTM_X_ARC6": 544378.9365,
+        "UTM_Y_ARC6": 9305308.456,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2068"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.185503343127756,
+          -5.986743637785509
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mangapwani: Slave chamber",
+        "Y_ARC60": -5.987,
+        "X_ARC60": 39.18565,
+        "UTM_X_ARC6": 520450.352,
+        "UTM_Y_ARC6": 9338531.019,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2069"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.191403485332216,
+          -6.001458936096601
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mangapwani: Slave cave",
+        "Y_ARC60": -6.00171667,
+        "X_ARC60": 39.19155,
+        "UTM_X_ARC6": 521102.7541,
+        "UTM_Y_ARC6": 9336903.971,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2070"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20875406510497,
+          -6.144662309441155
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Maruhubi Palace",
+        "Y_ARC60": -6.14493333,
+        "X_ARC60": 39.2089,
+        "UTM_X_ARC6": 523016.7732,
+        "UTM_Y_ARC6": 9321071.61,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2071"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20217070925233,
+          -6.209939615904245
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mbweni: St Mary�s School",
+        "Y_ARC60": -6.21021667,
+        "X_ARC60": 39.20231667,
+        "UTM_X_ARC6": 522285.6471,
+        "UTM_Y_ARC6": 9313855.221,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2072"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.204604084230155,
+          -6.207473170277639
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mbweni: St Johns Church",
+        "Y_ARC60": -6.20775,
+        "X_ARC60": 39.20475,
+        "UTM_X_ARC6": 522554.945,
+        "UTM_Y_ARC6": 9314127.793,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2073"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.21307080667706,
+          -6.135196518880205
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mtoni Palace",
+        "Y_ARC60": -6.13546667,
+        "X_ARC60": 39.21321667,
+        "UTM_X_ARC6": 523494.7895,
+        "UTM_Y_ARC6": 9322117.902,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2074"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.29285525659654,
+          -5.828541446193588
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Mvuleni",
+        "Y_ARC60": -5.82878333,
+        "X_ARC60": 39.293,
+        "UTM_X_ARC6": 532340.3266,
+        "UTM_Y_ARC6": 9356015.66,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2075"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.189120366618404,
+          -6.1613107999889785
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Old Fort",
+        "Y_ARC60": -6.16158333,
+        "X_ARC60": 39.18926667,
+        "UTM_X_ARC6": 520843.8756,
+        "UTM_Y_ARC6": 9319231.867,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2076"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19115374779446,
+          -6.167560218030662
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Peace Memorial Museum",
+        "Y_ARC60": -6.16783333,
+        "X_ARC60": 39.1913,
+        "UTM_X_ARC6": 521068.59,
+        "UTM_Y_ARC6": 9318540.888,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2077"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1687032183361,
+          -6.120214638150919
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Prison (Changuu) Island",
+        "Y_ARC60": -6.12048333,
+        "X_ARC60": 39.16885,
+        "UTM_X_ARC6": 518586.4648,
+        "UTM_Y_ARC6": 9323775.96,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2078"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.23810481571474,
+          -6.24176993898621
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Shakani",
+        "Y_ARC60": -6.24205,
+        "X_ARC60": 39.23825,
+        "UTM_X_ARC6": 526259.2693,
+        "UTM_Y_ARC6": 9310334.576,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2079"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.235737476646804,
+          -5.8539391834641
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Tumbatu (Great Mosque)",
+        "Y_ARC60": -5.85418333,
+        "X_ARC60": 39.23588333,
+        "UTM_X_ARC6": 526016.0585,
+        "UTM_Y_ARC6": 9353210.839,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2080"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.23185407341091,
+          -5.857122234826806
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Tumbatu (Palace)",
+        "Y_ARC60": -5.85736667,
+        "X_ARC60": 39.232,
+        "UTM_X_ARC6": 525586.0301,
+        "UTM_Y_ARC6": 9352859.123,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2081"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.37297432645769,
+          -6.317546024850009
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "TERRESTRIAL",
+        "SITE": "Unguja Ukuu",
+        "Y_ARC60": -6.31783333,
+        "X_ARC60": 39.37311667,
+        "UTM_X_ARC6": 541172.4498,
+        "UTM_Y_ARC6": 9301948.39,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2082"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.62819479725592,
+          -5.484956100626857
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Paraportiani",
+        "Y_ARC60": -5.48516667,
+        "X_ARC60": 39.62833333,
+        "UTM_X_ARC6": 569505.2428,
+        "UTM_Y_ARC6": 9393971.352,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2083"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69849561080278,
+          -5.064394950020998
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Sultan Khalifa's boat",
+        "Y_ARC60": -5.06456667,
+        "X_ARC60": 39.69863333,
+        "UTM_X_ARC6": 577344.9224,
+        "UTM_Y_ARC6": 9440459.11,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2084"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.680278771759966,
+          -5.199415803050346
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Ras Mkumbuu Underwater Road",
+        "Y_ARC60": -5.1996,
+        "X_ARC60": 39.68041667,
+        "UTM_X_ARC6": 575309.7268,
+        "UTM_Y_ARC6": 9425533.752,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.66954519399501,
+          -5.182667368928313
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Ras Mkumbuu Underwater House",
+        "Y_ARC60": -5.18285,
+        "X_ARC60": 39.66968333,
+        "UTM_X_ARC6": 574122.1308,
+        "UTM_Y_ARC6": 9427386.68,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2086"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65304478993255,
+          -5.128739055020728
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "PEMBA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Kokota Island Underwater Well",
+        "Y_ARC60": -5.12891667,
+        "X_ARC60": 39.65318333,
+        "UTM_X_ARC6": 572299.5331,
+        "UTM_Y_ARC6": 9433350.715,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2087"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.14235276892708,
+          -6.170560020124263
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Great Northern",
+        "Y_ARC60": -6.17083333,
+        "X_ARC60": 39.1425,
+        "UTM_X_ARC6": 515669.4738,
+        "UTM_Y_ARC6": 9318210.947,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2088"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19402044513186,
+          -6.148895281536132
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "H.M.S. Pegasus",
+        "Y_ARC60": -6.14916667,
+        "X_ARC60": 39.19416667,
+        "UTM_X_ARC6": 521386.4967,
+        "UTM_Y_ARC6": 9320604.255,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2089"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.14051941256753,
+          -6.1770594214249535
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Penguin",
+        "Y_ARC60": -6.17733333,
+        "X_ARC60": 39.14066667,
+        "UTM_X_ARC6": 515466.4536,
+        "UTM_Y_ARC6": 9317492.469,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2090"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18568695484339,
+          -6.1597276221849215
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Glasgow",
+        "Y_ARC60": -6.16,
+        "X_ARC60": 39.18583333,
+        "UTM_X_ARC6": 520464.0813,
+        "UTM_Y_ARC6": 9319407.027,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2091"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.14303609520181,
+          -6.1598234329731385
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Glasgow (?)",
+        "Y_ARC60": -6.16009575,
+        "X_ARC60": 39.14318333,
+        "UTM_X_ARC6": 515745.3926,
+        "UTM_Y_ARC6": 9319397.896,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2092"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.41652429065625,
+          -5.749765220336175
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Glorongay",
+        "Y_ARC60": -5.75,
+        "X_ARC60": 39.41666667,
+        "UTM_X_ARC6": 546037.3295,
+        "UTM_Y_ARC6": 9364716.111,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2093"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.14218606846326,
+          -6.15392823011957
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Royal Navy Lighter & Barge",
+        "Y_ARC60": -6.1542,
+        "X_ARC60": 39.14233333,
+        "UTM_X_ARC6": 515651.5245,
+        "UTM_Y_ARC6": 9320049.657,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2094"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.156519693345736,
+          -6.151395111256614
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Adele O'Swald",
+        "Y_ARC60": -6.15166667,
+        "X_ARC60": 39.15666667,
+        "UTM_X_ARC6": 517237.4263,
+        "UTM_Y_ARC6": 9320329.257,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2095"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19152040045183,
+          -6.152394961581455
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "Colleen",
+        "Y_ARC60": -6.15266667,
+        "X_ARC60": 39.19166667,
+        "UTM_X_ARC6": 521109.7585,
+        "UTM_Y_ARC6": 9320217.452,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2096"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cultural_heritage_inventory_4326.92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.14985288622118,
+          -6.149728606409849
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ISLAND": "UNGUJA",
+        "TYPE": "UNDERWATER",
+        "SITE": "El Majidi",
+        "Y_ARC60": -6.15,
+        "X_ARC60": 39.15,
+        "UTM_X_ARC6": 516499.8837,
+        "UTM_Y_ARC6": 9320513.707,
+        "SRC": "FINAL REPORT, PART I FOR INTERNAL (MACEMP AND DAMA) CIRCULATION ONLY. OCTOBER 2097"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
